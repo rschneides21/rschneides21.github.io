@@ -1,0 +1,15 @@
+
+
+h1{
+	display: block;
+	text-align: center;
+	font-family: 'Josefin Slab', serif;
+	padding-bottom: 10px;
+	border-bottom: 1px solid black;
+}
+p{
+	display: block;
+	font-family: 'Josefin Slab', serif;
+	margin-left: 300px;
+	margin-right: 300px;
+}
